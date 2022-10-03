@@ -722,17 +722,20 @@ if CustomizableWeaponry then
 				-- self.WElements["wm"].skin = 0
 			-- end
 		
-			if self.ActiveAttachments.md_cod4_reflex then
-				self.WElements["wm_cod4"].modelEnt:SetBodygroup(1,1)
-			elseif self.ActiveAttachments.md_cod4_eotech_v2 then
-				self.WElements["wm_cod4"].modelEnt:SetBodygroup(1,2)
-			elseif self.ActiveAttachments.md_cod4_aimpoint_v2 then
-				self.WElements["wm_cod4"].modelEnt:SetBodygroup(1,3)
-			elseif self.ActiveAttachments.md_cod4_acog_v2 then
-				self.WElements["wm_cod4"].modelEnt:SetBodygroup(1,4)
-			else
-				self.WElements["wm_cod4"].modelEnt:SetBodygroup(1,0)
-			end
+			local modelEnt = self.WElements["wm_cod4"].modelEnt
+			if modelEnt then
+                if self.ActiveAttachments.md_cod4_reflex then
+                    modelEnt:SetBodygroup(1,1)
+                elseif self.ActiveAttachments.md_cod4_eotech_v2 then
+                    modelEnt:SetBodygroup(1,2)
+                elseif self.ActiveAttachments.md_cod4_aimpoint_v2 then
+                    modelEnt:SetBodygroup(1,3)
+                elseif self.ActiveAttachments.md_cod4_acog_v2 then
+                    modelEnt:SetBodygroup(1,4)
+                else
+                    modelEnt:SetBodygroup(1,0)
+                end
+            end
 			
 			// single models
 			
