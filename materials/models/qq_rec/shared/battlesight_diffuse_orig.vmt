@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\qq_rec\shared/battlesight_diffuse_orig"
+	"$bumpmap" "models\qq_rec\shared/battlesight_normal"
+	"$surfaceprop" "Metal"
+	"$phong" "1"
+	"$phongboost" ".25"
+	"$phongfresnelranges" "[1 8 6]"
+	"$phongexponenttexture" "models\qq_rec\shared/battlesight_specular"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models\qq_rec\shared/battlesight_glow"
+}

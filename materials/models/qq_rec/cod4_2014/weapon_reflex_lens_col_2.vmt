@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/qq_rec/cod4_2014/weapon_reflex_lens_col"
+	"$bumpmap" "effects/flat_normal"
+	
+	"$nocull" "1"
+	"$translucent" "1"
+}

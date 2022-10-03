@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/fake_long"
+	"$translucent" 1
+	// "$no_draw" "1"
+}

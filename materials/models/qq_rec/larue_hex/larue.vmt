@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\qq_rec\larue_hex\larue"
+	
+	"$nocull" "1"
+}

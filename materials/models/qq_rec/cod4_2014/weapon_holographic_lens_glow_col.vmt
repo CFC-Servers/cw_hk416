@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/weapon_holographic_lens_glow_col"
+	"$translucent" "1"
+	"$color2" "[0 0 0]"
+}

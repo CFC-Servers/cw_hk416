@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/weapon_acog_col"
+	"$bumpmap" "effects/flat_normal"
+
+	"$color2" "{110 110 110}"
+}

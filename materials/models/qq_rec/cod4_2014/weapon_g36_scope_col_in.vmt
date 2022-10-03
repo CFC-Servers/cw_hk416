@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/weapon_g36_scope_col"
+	"$bumpmap" "effects/flat_normal"
+	"$nocull" "1"
+	// "$alphatest" "1"
+}

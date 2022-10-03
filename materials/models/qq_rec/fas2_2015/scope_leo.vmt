@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/qq_rec/fas2_2015/scope_leo"
+	// "$no_draw" "1"
+	"$translucent"		"1"
+	// "$model" "1"
+}

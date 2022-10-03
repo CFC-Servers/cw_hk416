@@ -1,0 +1,20 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\qq_rec\fas2_2015\eotech_reticle"
+	// "$translucent" 1
+	"$additive" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	
+	// "$model" "1"
+	// "$additive" "1"
+	// "$ignorez" "1"
+	
+	// Proxies
+	// {
+		// IronsightFractionAlpha
+		// {
+			// "minFrac"	"0.7"
+		// }
+	// }
+}

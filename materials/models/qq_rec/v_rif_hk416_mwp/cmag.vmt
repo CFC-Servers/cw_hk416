@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\qq_rec\v_rif_hk416_mwp\cmag"
+    "$envmap" "env_cubemap"
+    "$envmapmask" "models\qq_rec\v_rif_hk416_mwp\cmag_ref"
+}  

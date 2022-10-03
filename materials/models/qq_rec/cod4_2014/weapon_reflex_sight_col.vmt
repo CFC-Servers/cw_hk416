@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/weapon_reflex_sight_col"
+	"$bumpmap" "effects/flat_normal"
+	"$nocull" "1"
+	
+	"$halflambert" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.3"
+	"$phongfresnelranges" "[0.5 3 6]"
+	
+	"$color2" "{150 150 150}"
+}

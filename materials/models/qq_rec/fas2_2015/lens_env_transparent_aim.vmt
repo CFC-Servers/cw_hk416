@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\qq_rec\fas2_2015\Lens"
+	"$bumpmap" "models\qq_rec\fas2_2015\Lens_normal"
+	"$translucent" "1"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"qq_sprites/cw2_chevron_colorable"
+	"$translucent" 	"1"
+	"$model" 	"1"
+}

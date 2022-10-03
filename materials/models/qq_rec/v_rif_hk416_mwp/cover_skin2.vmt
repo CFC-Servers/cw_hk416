@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\qq_rec\v_rif_hk416_mwp\salad/cover"
+	"$bumpmap"		"models\qq_rec\v_rif_hk416_mwp\cover_norm"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}

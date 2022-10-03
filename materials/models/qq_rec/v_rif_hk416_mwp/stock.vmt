@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\qq_rec\v_rif_hk416_mwp\stock"
+	"$nocull" "1"
+}

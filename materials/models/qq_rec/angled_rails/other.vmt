@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$nocull"                 "1"
+	"$basetexture"	"models\qq_rec\angled_rails\other"
+	"$bumpmap"		"models\qq_rec\angled_rails\other_normal"
+	
+	"$phong" "1"
+	"$phongexponent" "31"
+	"$phongboost"	"0.6"
+	"$phongfresnelranges"	"[.3 7 1]"
+}

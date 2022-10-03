@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/qq_rec/cod4_2014/1"
+	"$bumpmap" "models/qq_rec/fas2_2015/Lens_normal"
+
+ 	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.7"
+	"$envmaptint" "[.553 .35 .1255]"
+	
+	"$additive" "1"
+}
+
+// "VertexLitGeneric"
+// {
+	// "$bumpmap" "models/qq_rec/fas2_2015/Lens_normal"
+	
+ 	// "$envmap" "env_cubemap"
+	// "$envmapcontrast" 0.95
+	// "$envmapsaturation" "[10 0.5 1]"
+	// "$envmaptint" "[.553 .35 .1255]"
+// }

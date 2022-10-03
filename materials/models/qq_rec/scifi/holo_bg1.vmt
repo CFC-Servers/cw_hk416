@@ -1,0 +1,19 @@
+"UnLitGeneric"
+{
+	$basetexture "models\qq_rec\scifi\holo_bg1"
+	$nocull 1
+	$translucent 1
+	$model 1
+
+	Proxies
+	{
+		UniformNoise
+		{
+			resultVar	$alpha
+			minVal	0.5
+			maxVal	0.7
+		}
+ 	}
+}
+
+

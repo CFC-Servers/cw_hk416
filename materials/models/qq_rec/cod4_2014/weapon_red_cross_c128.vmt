@@ -1,0 +1,6 @@
+"UnLitGeneric"
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/512"
+	// "$translucent" 1
+	"$additive" 1
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\qq_rec\fas2_2015\sks_receiver"
+	"$bumpmap" "models\qq_rec\fas2_2015\sks_receiver_normal"
+	
+	"$phong" "1"
+	"$phongexponent""10"
+	"$phongboost" "0.5"
+	"$phongfresnelranges""[1.0 2.5 10.5]"
+}

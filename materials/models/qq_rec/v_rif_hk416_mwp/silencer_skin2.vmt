@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	//"$basetexture"	"models\qq_rec\v_rif_hk416_mwp\silencer"
+	"$basetexture"	"models\qq_rec\v_rif_hk416_mwp\Gucci_green"
+	"$bumpmap"	"models\qq_rec\v_rif_hk416_mwp\Gucci_Normal"
+}

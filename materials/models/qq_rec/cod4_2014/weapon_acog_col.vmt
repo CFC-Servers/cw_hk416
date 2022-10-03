@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models/qq_rec/cod4_2014/weapon_acog_col"
+	"$bumpmap" "effects/flat_normal"
+
+	"$halflambert" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.3"
+	"$phongfresnelranges" "[0 3 6]"
+	
+	"$color2" "{130 130 130}"
+}
